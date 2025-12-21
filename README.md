@@ -2,7 +2,7 @@
 
 **Course:** CSC17104 – Programming for Data Science  
 **Institution:** Faculty of Information Technology, University of Science, Vietnam National University Ho Chi Minh City  
-**Academic Year:** 2024-2025
+**Academic Year:** 2025-2026
 
 ---
 
